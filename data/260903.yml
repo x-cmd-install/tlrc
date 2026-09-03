@@ -1,0 +1,58 @@
+about:
+  description: Official tldr client written in Rust.
+  license: MIT
+  homepage: http://tldr.sh/tlrc/
+  head: eb9bfee
+  archived: false
+  latestVersion: v1.13.1
+  collectedAt: 2026-09-03T04:40:49Z
+timeline:
+  created: 2023-04-14
+  lastCommit: 2026-08-05
+  lastRelease: 2026-05-22
+popularity:
+  star: 992
+  watcher: 12
+  fork: 31
+  release: 23
+  contributor: 41
+  pullRequest: 13
+  issue: 33
+language:
+  Rust: 92175
+  Roff: 9872
+  Shell: 3685
+totalLine: 105732
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 4
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 5
+  last180d:
+    since: 2026-03-07
+    release: 2
+    mergedPR: 9
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 27
+  last360d:
+    since: 2025-09-08
+    release: 3
+    mergedPR: 24
+    openPR: 1
+    closedIssue: 7
+    openIssue: 0
+    commit: 62
