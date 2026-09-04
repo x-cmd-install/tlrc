@@ -7,7 +7,7 @@ about:
   head: d411e7e
   archived: false
   latestVersion: v1.13.1
-  collectedAt: 2026-09-04T19:42:46Z
+  collectedAt: 2026-09-04T20:54:17Z
 timeline:
   created: 2023-04-14
   lastCommit: 2026-09-04
@@ -82,5 +82,38 @@ total:
   openIssue: 1
   commit: 449
 ---
+path: /home/runner/.x-repo/github.com/tldr-pages/tlrc
+collectedAt: 2026-09-04T20:54:18Z
+loc:
+  Rust:
+    code: 2165
+    comments: 136
+    blanks: 405
+    files: 9
+  Toml:
+    code: 62
+    comments: 1
+    blanks: 7
+    files: 3
+  Fish:
+    code: 34
+    comments: 0
+    blanks: 0
+    files: 1
+  Bash:
+    code: 26
+    comments: 1
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 92
+    blanks: 63
+    files: 4
+total:
+  code: 2387
+  comments: 399
+  blanks: 492
+  files: 18
 ---
 
