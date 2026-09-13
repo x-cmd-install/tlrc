@@ -38,7 +38,7 @@ Total: **2,287** lines of code across **18** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,017 · **Forks**: 33 · **Open issues**: 33 · **Contributors**: 38
+- **Stars**: 1,020 · **Forks**: 33 · **Open issues**: 33 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **2,287** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-14 | 0 | 2 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-14 | 0 | 4 | 0 | 0 | 0 | 6 |
-| last180d | 2026-03-16 | 2 | 10 | 0 | 2 | 0 | 28 |
-| 360d | 2025-09-17 | 3 | 25 | 0 | 7 | 0 | 63 |
-| last720d | 2024-09-22 | 6 | 57 | 0 | 22 | 0 | 147 |
+| 30d | 2026-08-14 | 0 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 0 | 2 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 0 | 4 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 2 | 10 | 0 | 2 | 0 | 0 |
+| 360d | 2025-09-18 | 3 | 25 | 0 | 7 | 0 | 0 |
+| last720d | 2024-09-23 | 6 | 57 | 0 | 22 | 0 | 147 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Total: **2,287** lines of code across **18** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/tlrc). **12** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/tlrc). **13** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for tlrc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:52:27Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:08:31Z._
