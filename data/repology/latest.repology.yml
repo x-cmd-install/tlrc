@@ -1,27 +1,3 @@
-- repo: aur
-  srcname: tlrc
-  binname: tlrc
-  visiblename: tlrc
-  version: 1.13.1
-  origversion: 1.13.1-1
-  status: newest
-  summary: Official tldr client written in Rust
-  maintainers:
-    - lnps@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: tlrc-bin
-  binname: tlrc-bin
-  visiblename: tlrc-bin
-  version: 1.13.1
-  origversion: 1.13.1-1
-  status: newest
-  summary: Official tldr client written in Rust
-  maintainers:
-    - lnps@aur
-  licenses:
-    - MIT
 - repo: aerynos
   srcname: tlrc
   visiblename: tlrc
@@ -47,6 +23,30 @@
     - MIT
   categories:
     - Documentation
+- repo: aur
+  srcname: tlrc
+  binname: tlrc
+  visiblename: tlrc
+  version: 1.13.1
+  origversion: 1.13.1-1
+  status: newest
+  summary: Official tldr client written in Rust
+  maintainers:
+    - lnps@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: tlrc-bin
+  binname: tlrc-bin
+  visiblename: tlrc-bin
+  version: 1.13.1
+  origversion: 1.13.1-1
+  status: newest
+  summary: Official tldr client written in Rust
+  maintainers:
+    - lnps@aur
+  licenses:
+    - MIT
 - repo: aur
   srcname: tlrc-git
   binname: tlrc-git
@@ -84,9 +84,9 @@
   srcname: net/tlrc
   binname: tlrc
   visiblename: tlrc
-  version: 1.12.0
+  version: 1.13.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Official tldr client written in Rust
   maintainers:
     - therealketo@github
