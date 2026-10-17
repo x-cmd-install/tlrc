@@ -14,12 +14,12 @@ x install tlrc
 
 ## Code insight
 
-Total: **2,287** lines of code across **18** files in the top 5 languages.
+Total: **2,288** lines of code across **18** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 2,165 | 136 | 405 | 9 |
-| Toml | 62 | 1 | 7 | 3 |
+| Toml | 63 | 1 | 7 | 3 |
 | Fish | 34 | 0 | 0 | 1 |
 | Bash | 26 | 1 | 5 | 1 |
 | Markdown | 0 | 92 | 63 | 4 |
@@ -33,27 +33,27 @@ Total: **2,287** lines of code across **18** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.1` (2026-05-22)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-10-16
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 1,060 · **Forks**: 34 · **Open issues**: 33 · **Contributors**: 39
+- **Stars**: 1,060 · **Forks**: 35 · **Open issues**: 33 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 135 · **Open PRs**: 2 · **Closed issues**: 32 · **Open issues**: 1 · **Commits**: 450
+- **Releases**: 23 · **Merged PRs**: 137 · **Open PRs**: 1 · **Closed issues**: 32 · **Open issues**: 1 · **Commits**: 454
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last60d | 2026-08-17 | 0 | 2 | 2 | 0 | 0 | 2 |
-| 90d | 2026-07-18 | 0 | 3 | 2 | 0 | 0 | 4 |
-| last180d | 2026-04-19 | 1 | 9 | 2 | 2 | 0 | 20 |
-| 360d | 2025-10-21 | 2 | 25 | 2 | 4 | 0 | 57 |
-| last720d | 2024-10-26 | 6 | 55 | 2 | 22 | 0 | 145 |
+| 30d | 2026-09-17 | 0 | 2 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-18 | 0 | 4 | 1 | 0 | 0 | 6 |
+| 90d | 2026-07-19 | 0 | 5 | 1 | 0 | 0 | 8 |
+| last180d | 2026-04-20 | 1 | 11 | 1 | 2 | 0 | 24 |
+| 360d | 2025-10-22 | 2 | 27 | 1 | 3 | 0 | 61 |
+| last720d | 2024-10-27 | 6 | 57 | 1 | 22 | 0 | 149 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for tlrc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:45:52Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:19:56Z._
