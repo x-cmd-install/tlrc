@@ -38,22 +38,22 @@ Total: **2,288** lines of code across **18** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,063 · **Forks**: 35 · **Open issues**: 33 · **Contributors**: 39
+- **Stars**: 1,064 · **Forks**: 35 · **Open issues**: 34 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 137 · **Open PRs**: 1 · **Closed issues**: 32 · **Open issues**: 1 · **Commits**: 454
+- **Releases**: 23 · **Merged PRs**: 137 · **Open PRs**: 1 · **Closed issues**: 32 · **Open issues**: 2 · **Commits**: 454
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 2 | 1 | 0 | 0 | 4 |
-| last60d | 2026-08-22 | 0 | 4 | 1 | 0 | 0 | 6 |
-| 90d | 2026-07-23 | 0 | 5 | 1 | 0 | 0 | 8 |
-| last180d | 2026-04-24 | 1 | 11 | 1 | 2 | 0 | 19 |
-| 360d | 2025-10-26 | 2 | 27 | 1 | 3 | 0 | 61 |
-| last720d | 2024-10-31 | 6 | 57 | 1 | 22 | 0 | 149 |
+| 30d | 2026-09-22 | 0 | 2 | 1 | 0 | 1 | 4 |
+| last60d | 2026-08-23 | 0 | 4 | 1 | 0 | 1 | 6 |
+| 90d | 2026-07-24 | 0 | 5 | 1 | 0 | 1 | 8 |
+| last180d | 2026-04-25 | 1 | 11 | 1 | 2 | 1 | 19 |
+| 360d | 2025-10-27 | 2 | 27 | 1 | 3 | 1 | 61 |
+| last720d | 2024-11-01 | 6 | 54 | 1 | 22 | 1 | 149 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for tlrc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:47:15Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:45:18Z._
