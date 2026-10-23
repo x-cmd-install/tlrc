@@ -38,7 +38,7 @@ Total: **2,288** lines of code across **18** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,064 · **Forks**: 35 · **Open issues**: 34 · **Contributors**: 39
+- **Stars**: 1,065 · **Forks**: 35 · **Open issues**: 34 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **2,288** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 1 | 0 | 1 | 4 |
-| last60d | 2026-08-23 | 0 | 4 | 1 | 0 | 1 | 6 |
-| 90d | 2026-07-24 | 0 | 5 | 1 | 0 | 1 | 8 |
-| last180d | 2026-04-25 | 1 | 11 | 1 | 2 | 1 | 19 |
-| 360d | 2025-10-27 | 2 | 27 | 1 | 3 | 1 | 61 |
-| last720d | 2024-11-01 | 6 | 54 | 1 | 22 | 1 | 149 |
+| 30d | 2026-09-23 | 0 | 2 | 1 | 0 | 1 | 4 |
+| last60d | 2026-08-24 | 0 | 4 | 1 | 0 | 1 | 6 |
+| 90d | 2026-07-25 | 0 | 5 | 1 | 0 | 1 | 8 |
+| last180d | 2026-04-26 | 1 | 11 | 1 | 2 | 1 | 19 |
+| 360d | 2025-10-28 | 2 | 27 | 1 | 3 | 1 | 61 |
+| last720d | 2024-11-02 | 6 | 54 | 1 | 22 | 1 | 146 |
 
 ## Release assets
 
@@ -72,6 +72,17 @@ Total: **2,288** lines of code across **18** files in the top 5 languages.
 | [tlrc-v1.13.1-x86_64-unknown-linux-musl.deb](https://github.com/tldr-pages/tlrc/releases/download/v1.13.1/tlrc-v1.13.1-x86_64-unknown-linux-musl.deb) | 1.2 MiB | `native/linux/x64/musl` |
 | [tlrc-v1.13.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/tldr-pages/tlrc/releases/download/v1.13.1/tlrc-v1.13.1-x86_64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/tlrc). **14** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.13.1` | ✅ latest |
+| Nix unstable | `1.13.1` | ✅ latest |
+| Void | `1.13.1` | ✅ latest |
+| openSUSE Tumbleweed | `1.13.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for tlrc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tlrc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +92,4 @@ Install metadata for tlrc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:45:18Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:53:34Z._
