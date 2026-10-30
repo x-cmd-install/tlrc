@@ -1,27 +1,3 @@
-- repo: pkgsrc_2026_2
-  srcname: net/tlrc
-  binname: tlrc
-  visiblename: net/tlrc
-  version: 1.13.1
-  origversion: null
-  status: newest
-  summary: Tldr client written in Rust
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
-- repo: pkgsrc_2026_3
-  srcname: net/tlrc
-  binname: tlrc
-  visiblename: net/tlrc
-  version: 1.13.1
-  origversion: null
-  status: newest
-  summary: Tldr client written in Rust
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
 - repo: aerynos
   srcname: tlrc
   visiblename: tlrc
@@ -203,6 +179,30 @@
     - MIT
   categories:
     - Unspecified
+- repo: pkgsrc_2026_2
+  srcname: net/tlrc
+  binname: tlrc
+  visiblename: net/tlrc
+  version: 1.13.1
+  origversion: null
+  status: newest
+  summary: Tldr client written in Rust
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
+- repo: pkgsrc_2026_3
+  srcname: net/tlrc
+  binname: tlrc
+  visiblename: net/tlrc
+  version: 1.13.1
+  origversion: null
+  status: newest
+  summary: Tldr client written in Rust
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
 - repo: pkgsrc_current
   srcname: net/tlrc
   binname: tlrc
