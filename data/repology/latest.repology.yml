@@ -237,6 +237,16 @@
     - MIT
   categories:
     - extra/documentation
+- repo: tur
+  srcname: tlrc
+  binname: tlrc
+  visiblename: tlrc
+  version: 1.13.1
+  origversion: null
+  status: newest
+  summary: Official tldr client written in Rust
+  maintainers:
+    - everywhereless@github
 - repo: void_x86_64
   subrepo: x86_64
   srcname: tlrc
