@@ -38,7 +38,7 @@ x install tlrc
 
 ## 流行度
 
-- **Star**: 1,090 · **Fork**: 37 · **开放 issue**: 34 · **贡献者**: 39
+- **Star**: 1,091 · **Fork**: 37 · **开放 issue**: 34 · **贡献者**: 39
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install tlrc
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 2 | 4 | 0 | 1 | 4 |
-| 90d | 2026-08-26 | 0 | 4 | 4 | 0 | 1 | 6 |
-| last180d | 2026-05-28 | 0 | 9 | 4 | 0 | 1 | 12 |
-| 360d | 2025-11-29 | 2 | 23 | 4 | 3 | 1 | 56 |
-| last720d | 2024-12-04 | 6 | 50 | 4 | 22 | 1 | 142 |
+| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 2 | 4 | 0 | 1 | 4 |
+| 90d | 2026-08-27 | 0 | 4 | 4 | 0 | 1 | 6 |
+| last180d | 2026-05-29 | 0 | 9 | 4 | 0 | 1 | 12 |
+| 360d | 2025-11-30 | 2 | 22 | 4 | 3 | 1 | 56 |
+| last720d | 2024-12-05 | 6 | 50 | 4 | 22 | 1 | 142 |
 
 ## Release 资产
 
@@ -72,17 +72,6 @@ x install tlrc
 | [tlrc-v1.13.1-x86_64-unknown-linux-musl.deb](https://github.com/tldr-pages/tlrc/releases/download/v1.13.1/tlrc-v1.13.1-x86_64-unknown-linux-musl.deb) | 1.2 MiB | `native/linux/x64/musl` |
 | [tlrc-v1.13.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/tldr-pages/tlrc/releases/download/v1.13.1/tlrc-v1.13.1-x86_64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/tlrc) 上共有 **23** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.13.1` | ✅ latest |
-| Nix unstable | `1.13.1` | ✅ latest |
-| Void | `1.13.1` | ✅ latest |
-| openSUSE Tumbleweed | `1.13.1` | ✅ latest |
-
 ## 改进这些数据
 
 tlrc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tlrc` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -92,4 +81,4 @@ tlrc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:51:24Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:21:02Z._
